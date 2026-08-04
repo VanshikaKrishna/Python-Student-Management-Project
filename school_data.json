@@ -1,0 +1,29 @@
+{
+    "students": [
+        {
+            "name": "Vanshika",
+            "age": 33,
+            "email": "vanshika@yopmail.com",
+            "roll_no": "1",
+            "grades": {
+                "Computer": 90.0
+            }
+        },
+        {
+            "name": "Remo",
+            "age": 22,
+            "email": "remo@yopmail.com",
+            "roll_no": "2",
+            "grades": {}
+        }
+    ],
+    "teachers": [
+        {
+            "name": "Ujjwal",
+            "age": 36,
+            "email": "ujjwal@yopmail.com",
+            "subject": "Computer",
+            "emp_id": "1"
+        }
+    ]
+}
